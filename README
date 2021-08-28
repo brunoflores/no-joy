@@ -1,0 +1,1 @@
+$ docker run --rm -it -v (pwd):/This bsc:latest bash -c "cd /This; make Tb; ./Tb;"
